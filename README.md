@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![coding stats!](https://github-readme-stats.hackclub.dev/api/wakatime?username=13226&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=tokyonight)
+[![coding stats!](https://github-readme-stats.hackclub.dev/api/wakatime?username=13226&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=tokyonight)](https://github.com/EpicTromboneKid)
 
