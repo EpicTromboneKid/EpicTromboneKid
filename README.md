@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **EpicTromboneKid/EpicTromboneKid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![coding stats!](https://github-readme-stats.hackclub.dev/api/wakatime?username=13226&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=tokyonight)
+
